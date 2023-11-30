@@ -4,7 +4,7 @@
     <Description>ASP.NET Core MVC application for hosting Weavy server/backend services.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <SatelliteResourceLanguages>none</SatelliteResourceLanguages>
-    <TargetFramework>net7.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
